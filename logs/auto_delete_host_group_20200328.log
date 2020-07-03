@@ -1,0 +1,262 @@
+2020-03-28 15:45:54,647 - INFO -  成功删除主机组findsec_hostgrp_100
+2020-03-28 15:45:56,750 - ERROR -  删除主机组findsec_hostgrp_10异常： (u'Error -32602: Invalid params., Host "2.2.2.11" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.11" cannot be without host group.', -32602)
+
+2020-03-28 15:45:56,750 - ERROR -  删除主机组findsec_hostgrp_10异常： (u'Error -32602: Invalid params., Host "2.2.2.11" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.11" cannot be without host group.', -32602)
+
+2020-03-28 15:45:58,881 - ERROR -  删除主机组findsec_hostgrp_09异常： (u'Error -32602: Invalid params., Host "2.2.2.10" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.10" cannot be without host group.', -32602)
+
+2020-03-28 15:45:58,881 - ERROR -  删除主机组findsec_hostgrp_09异常： (u'Error -32602: Invalid params., Host "2.2.2.10" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.10" cannot be without host group.', -32602)
+
+2020-03-28 15:45:58,881 - ERROR -  删除主机组findsec_hostgrp_09异常： (u'Error -32602: Invalid params., Host "2.2.2.10" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.10" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,523 - ERROR -  删除主机组findsec_hostgrp_08异常： (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,523 - ERROR -  删除主机组findsec_hostgrp_08异常： (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,523 - ERROR -  删除主机组findsec_hostgrp_08异常： (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,523 - ERROR -  删除主机组findsec_hostgrp_08异常： (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,718 - WARNING -  主机组findsec_hostgrp_10000不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,718 - WARNING -  主机组findsec_hostgrp_10000不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,718 - WARNING -  主机组findsec_hostgrp_10000不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,718 - WARNING -  主机组findsec_hostgrp_10000不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,718 - WARNING -  主机组findsec_hostgrp_10000不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,905 - WARNING -  主机组findsec_hostgrp_10001不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,905 - WARNING -  主机组findsec_hostgrp_10001不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,905 - WARNING -  主机组findsec_hostgrp_10001不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,905 - WARNING -  主机组findsec_hostgrp_10001不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,905 - WARNING -  主机组findsec_hostgrp_10001不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:45:59,905 - WARNING -  主机组findsec_hostgrp_10001不存在
+Traceback (most recent call last):
+  File "auto_delete_host_group.py", line 35, in <module>
+    zabbix.delete_group(group_id)
+  File "../lib/AutoZabbix.py", line 359, in delete_group
+    response=zabbixapi.hostgroup.delete(groupid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., Host "2.2.2.9" cannot be without host group.', -32602)
+
+2020-03-28 15:49:03,953 - WARNING -  主机组findsec_hostgrp_100不存在
+2020-03-28 15:49:04,435 - INFO -  成功删除主机组findsec_hostgrp_10
+2020-03-28 15:49:04,435 - INFO -  成功删除主机组findsec_hostgrp_10
+2020-03-28 15:49:04,951 - INFO -  成功删除主机组findsec_hostgrp_09
+2020-03-28 15:49:04,951 - INFO -  成功删除主机组findsec_hostgrp_09
+2020-03-28 15:49:04,951 - INFO -  成功删除主机组findsec_hostgrp_09
+2020-03-28 15:49:05,513 - INFO -  成功删除主机组findsec_hostgrp_08
+2020-03-28 15:49:05,513 - INFO -  成功删除主机组findsec_hostgrp_08
+2020-03-28 15:49:05,513 - INFO -  成功删除主机组findsec_hostgrp_08
+2020-03-28 15:49:05,513 - INFO -  成功删除主机组findsec_hostgrp_08
+2020-03-28 15:49:05,659 - WARNING -  主机组findsec_hostgrp_10000不存在
+2020-03-28 15:49:05,659 - WARNING -  主机组findsec_hostgrp_10000不存在
+2020-03-28 15:49:05,659 - WARNING -  主机组findsec_hostgrp_10000不存在
+2020-03-28 15:49:05,659 - WARNING -  主机组findsec_hostgrp_10000不存在
+2020-03-28 15:49:05,659 - WARNING -  主机组findsec_hostgrp_10000不存在
+2020-03-28 15:49:05,822 - WARNING -  主机组findsec_hostgrp_10001不存在
+2020-03-28 15:49:05,822 - WARNING -  主机组findsec_hostgrp_10001不存在
+2020-03-28 15:49:05,822 - WARNING -  主机组findsec_hostgrp_10001不存在
+2020-03-28 15:49:05,822 - WARNING -  主机组findsec_hostgrp_10001不存在
+2020-03-28 15:49:05,822 - WARNING -  主机组findsec_hostgrp_10001不存在
+2020-03-28 15:49:05,822 - WARNING -  主机组findsec_hostgrp_10001不存在

@@ -1,0 +1,936 @@
+2020-03-28 15:51:35,689 - ERROR -  删除主机2.2.2.11异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,240 - ERROR -  删除主机2.2.2.10异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,240 - ERROR -  删除主机2.2.2.10异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,418 - WARNING -  主机2.2.2.09不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,418 - WARNING -  主机2.2.2.09不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,418 - WARNING -  主机2.2.2.09不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,599 - WARNING -  主机2.2.2.08不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,599 - WARNING -  主机2.2.2.08不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,599 - WARNING -  主机2.2.2.08不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,599 - WARNING -  主机2.2.2.08不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,782 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,782 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,782 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,782 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,782 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,962 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,962 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,962 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,962 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,962 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:36,962 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,130 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,130 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,130 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,130 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,130 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,130 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,130 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:51:37,321 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:04,158 - ERROR -  删除主机2.2.2.11异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:04,712 - ERROR -  删除主机2.2.2.10异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:04,712 - ERROR -  删除主机2.2.2.10异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,249 - ERROR -  删除主机2.2.2.9异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,249 - ERROR -  删除主机2.2.2.9异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,249 - ERROR -  删除主机2.2.2.9异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,801 - ERROR -  删除主机2.2.2.8异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,801 - ERROR -  删除主机2.2.2.8异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,801 - ERROR -  删除主机2.2.2.8异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,801 - ERROR -  删除主机2.2.2.8异常： (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,970 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,970 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,970 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,970 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:05,970 - WARNING -  主机2.2.2.111不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,110 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,110 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,110 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,110 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,110 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,110 - WARNING -  主机2.2.2.12不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,277 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,277 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,277 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,277 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,277 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,277 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,277 - WARNING -  主机2.2.2.11223不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:53:06,444 - WARNING -  主机2.2.2.1144不存在
+Traceback (most recent call last):
+  File "auto_delete_host.py", line 35, in <module>
+    zabbix.delete_host(host_id)
+  File "../lib/AutoZabbix.py", line 425, in delete_host
+    response=zabbixapi.host.delete(hostid=hostid)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., SQL statement execution has failed "DELETE FROM screens_items WHERE resourceid=Array AND resourcetype=\'16\'"', -32500)
+
+2020-03-28 15:59:27,275 - WARNING -  主机2.2.2.11不存在
+2020-03-28 15:59:27,832 - INFO -  成功删除主机2.2.2.10
+2020-03-28 15:59:27,832 - INFO -  成功删除主机2.2.2.10
+2020-03-28 15:59:28,004 - WARNING -  主机2.2.2.9不存在
+2020-03-28 15:59:28,004 - WARNING -  主机2.2.2.9不存在
+2020-03-28 15:59:28,004 - WARNING -  主机2.2.2.9不存在
+2020-03-28 15:59:29,194 - INFO -  成功删除主机2.2.2.8
+2020-03-28 15:59:29,194 - INFO -  成功删除主机2.2.2.8
+2020-03-28 15:59:29,194 - INFO -  成功删除主机2.2.2.8
+2020-03-28 15:59:29,194 - INFO -  成功删除主机2.2.2.8
+2020-03-28 15:59:29,344 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:29,344 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:29,344 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:29,344 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:29,344 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:29,528 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:29,528 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:29,528 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:29,528 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:29,528 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:29,528 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:29,713 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:29,713 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:29,713 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:29,713 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:29,713 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:29,713 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:29,713 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:29,889 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:42,270 - WARNING -  主机2.2.2.11不存在
+2020-03-28 15:59:42,425 - WARNING -  主机2.2.2.10不存在
+2020-03-28 15:59:42,425 - WARNING -  主机2.2.2.10不存在
+2020-03-28 15:59:42,603 - WARNING -  主机2.2.2.9不存在
+2020-03-28 15:59:42,603 - WARNING -  主机2.2.2.9不存在
+2020-03-28 15:59:42,603 - WARNING -  主机2.2.2.9不存在
+2020-03-28 15:59:42,770 - WARNING -  主机2.2.2.8不存在
+2020-03-28 15:59:42,770 - WARNING -  主机2.2.2.8不存在
+2020-03-28 15:59:42,770 - WARNING -  主机2.2.2.8不存在
+2020-03-28 15:59:42,770 - WARNING -  主机2.2.2.8不存在
+2020-03-28 15:59:42,936 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:42,936 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:42,936 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:42,936 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:42,936 - WARNING -  主机2.2.2.111不存在
+2020-03-28 15:59:43,112 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:43,112 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:43,112 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:43,112 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:43,112 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:43,112 - WARNING -  主机2.2.2.12不存在
+2020-03-28 15:59:43,284 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:43,284 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:43,284 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:43,284 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:43,284 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:43,284 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:43,284 - WARNING -  主机2.2.2.11223不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在
+2020-03-28 15:59:43,453 - WARNING -  主机2.2.2.1144不存在

@@ -1,0 +1,761 @@
+2020-03-31 21:00:24,726 - ERROR -  主机2.2.2.2添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:25,306 - ERROR -  主机2.2.2.3添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:25,306 - ERROR -  主机2.2.2.3添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:25,882 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:25,882 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:25,882 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:26,479 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:26,479 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:26,479 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:26,479 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:27,622 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:27,622 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:27,622 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:27,622 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:27,622 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,160 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,160 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,160 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,160 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,160 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,160 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_item() takes exactly 8 arguments (7 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,342 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,342 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,342 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,342 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,342 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,342 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:00:28,342 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 47, in <module>
+    zabbix.create_item(host_id,name,key,type,value_type,delay)
+TypeError: create_item() takes exactly 8 arguments (7 given)
+
+2020-03-31 21:09:03,631 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:10:44,410 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:11:25,420 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:14:24,069 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:15:02,568 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:17:00,695 - INFO -  主机2.2.2.2添加监控项findsec.test成功
+2020-03-31 21:17:01,430 - INFO -  主机2.2.2.3添加监控项findsec.test成功
+2020-03-31 21:17:01,430 - INFO -  主机2.2.2.3添加监控项findsec.test成功
+2020-03-31 21:17:02,165 - INFO -  主机2.2.2.4添加监控项findsec.test成功
+2020-03-31 21:17:02,165 - INFO -  主机2.2.2.4添加监控项findsec.test成功
+2020-03-31 21:17:02,165 - INFO -  主机2.2.2.4添加监控项findsec.test成功
+2020-03-31 21:17:02,867 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:17:02,867 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:17:02,867 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:17:02,867 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:17:03,618 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:17:03,618 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:17:03,618 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:17:03,618 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:17:03,618 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:17:04,640 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:17:04,640 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:17:04,640 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:17:04,640 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:17:04,640 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:17:04,640 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:17:04,812 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:17:04,812 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:17:04,812 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:17:04,812 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:17:04,812 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:17:04,812 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:17:04,812 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:18:38,544 - ERROR -  主机2.2.2.2添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:39,493 - ERROR -  主机2.2.2.3添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:39,493 - ERROR -  主机2.2.2.3添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:40,377 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:40,377 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:40,377 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:41,305 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:41,305 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:41,305 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:41,305 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:42,274 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:42,274 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:42,274 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:42,274 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:42,274 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,193 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,193 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,193 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,193 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,193 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,193 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,374 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,374 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,374 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,374 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,374 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,374 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:18:43,374 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 59, in <module>
+    zabbix.create_item(host_id,interface_id,name,key,type,value_type,delay)
+  File "../lib/AutoZabbix.py", line 699, in create_item
+    response=zabbixapi.item.create(hostid=hostid,interfaceid=interfaceid,name=name,key_=key,type=type,value_type=value_type,delay=delay)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32602: Invalid params., No SNMP OID specified.', -32602)
+
+2020-03-31 21:24:58,972 - ERROR -  主机2.2.2.2添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:24:59,693 - ERROR -  主机2.2.2.3添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:24:59,693 - ERROR -  主机2.2.2.3添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:00,452 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:00,452 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:00,452 - ERROR -  主机2.2.2.4添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,163 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,163 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,163 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,163 - ERROR -  主机2.2.2.5添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,910 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,910 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,910 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,910 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:01,910 - ERROR -  主机2.2.2.6添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,654 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,654 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,654 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,654 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,654 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,654 - ERROR -  主机2.2.2.7添加监控项findsec.test异常： create_snmp_item() takes exactly 10 arguments (8 given)
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,838 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,838 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,838 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,838 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,838 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,838 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:02,838 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_add_item.py", line 61, in <module>
+    zabbix.create_snmp_item(host_id,interface_id,name,key,type,value_type,delay)
+TypeError: create_snmp_item() takes exactly 10 arguments (8 given)
+
+2020-03-31 21:25:25,961 - INFO -  主机2.2.2.2添加监控项findsec.test成功
+2020-03-31 21:25:26,884 - INFO -  主机2.2.2.3添加监控项findsec.test成功
+2020-03-31 21:25:26,884 - INFO -  主机2.2.2.3添加监控项findsec.test成功
+2020-03-31 21:25:27,769 - INFO -  主机2.2.2.4添加监控项findsec.test成功
+2020-03-31 21:25:27,769 - INFO -  主机2.2.2.4添加监控项findsec.test成功
+2020-03-31 21:25:27,769 - INFO -  主机2.2.2.4添加监控项findsec.test成功
+2020-03-31 21:25:28,612 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:25:28,612 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:25:28,612 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:25:28,612 - INFO -  主机2.2.2.5添加监控项findsec.test成功
+2020-03-31 21:25:29,517 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:25:29,517 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:25:29,517 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:25:29,517 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:25:29,517 - INFO -  主机2.2.2.6添加监控项findsec.test成功
+2020-03-31 21:25:30,351 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:25:30,351 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:25:30,351 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:25:30,351 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:25:30,351 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:25:30,351 - INFO -  主机2.2.2.7添加监控项findsec.test成功
+2020-03-31 21:25:30,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:30,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:30,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:30,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:30,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:30,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:30,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:36,498 - INFO -  主机2.2.2.2监控项findsec.test已存在
+2020-03-31 21:25:37,056 - INFO -  主机2.2.2.3监控项findsec.test已存在
+2020-03-31 21:25:37,056 - INFO -  主机2.2.2.3监控项findsec.test已存在
+2020-03-31 21:25:37,625 - INFO -  主机2.2.2.4监控项findsec.test已存在
+2020-03-31 21:25:37,625 - INFO -  主机2.2.2.4监控项findsec.test已存在
+2020-03-31 21:25:37,625 - INFO -  主机2.2.2.4监控项findsec.test已存在
+2020-03-31 21:25:38,192 - INFO -  主机2.2.2.5监控项findsec.test已存在
+2020-03-31 21:25:38,192 - INFO -  主机2.2.2.5监控项findsec.test已存在
+2020-03-31 21:25:38,192 - INFO -  主机2.2.2.5监控项findsec.test已存在
+2020-03-31 21:25:38,192 - INFO -  主机2.2.2.5监控项findsec.test已存在
+2020-03-31 21:25:38,740 - INFO -  主机2.2.2.6监控项findsec.test已存在
+2020-03-31 21:25:38,740 - INFO -  主机2.2.2.6监控项findsec.test已存在
+2020-03-31 21:25:38,740 - INFO -  主机2.2.2.6监控项findsec.test已存在
+2020-03-31 21:25:38,740 - INFO -  主机2.2.2.6监控项findsec.test已存在
+2020-03-31 21:25:38,740 - INFO -  主机2.2.2.6监控项findsec.test已存在
+2020-03-31 21:25:39,300 - INFO -  主机2.2.2.7监控项findsec.test已存在
+2020-03-31 21:25:39,300 - INFO -  主机2.2.2.7监控项findsec.test已存在
+2020-03-31 21:25:39,300 - INFO -  主机2.2.2.7监控项findsec.test已存在
+2020-03-31 21:25:39,300 - INFO -  主机2.2.2.7监控项findsec.test已存在
+2020-03-31 21:25:39,300 - INFO -  主机2.2.2.7监控项findsec.test已存在
+2020-03-31 21:25:39,300 - INFO -  主机2.2.2.7监控项findsec.test已存在
+2020-03-31 21:25:39,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:39,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:39,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:39,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:39,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:39,491 - WARNING -  主机2.2.2.8未加入监控
+2020-03-31 21:25:39,491 - WARNING -  主机2.2.2.8未加入监控

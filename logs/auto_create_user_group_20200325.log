@@ -1,0 +1,1064 @@
+2020-03-25 21:12:59,631 - INFO -  创建findsec_test01用户组
+2020-03-25 21:13:00,198 - INFO -  创建findsec_test02用户组
+2020-03-25 21:13:00,198 - INFO -  创建findsec_test02用户组
+2020-03-25 21:13:00,753 - INFO -  创建findsec_test03用户组
+2020-03-25 21:13:00,753 - INFO -  创建findsec_test03用户组
+2020-03-25 21:13:00,753 - INFO -  创建findsec_test03用户组
+2020-03-25 21:13:01,302 - INFO -  创建findsec_test04用户组
+2020-03-25 21:13:01,302 - INFO -  创建findsec_test04用户组
+2020-03-25 21:13:01,302 - INFO -  创建findsec_test04用户组
+2020-03-25 21:13:01,302 - INFO -  创建findsec_test04用户组
+2020-03-25 21:13:01,960 - INFO -  创建findsec_test05用户组
+2020-03-25 21:13:01,960 - INFO -  创建findsec_test05用户组
+2020-03-25 21:13:01,960 - INFO -  创建findsec_test05用户组
+2020-03-25 21:13:01,960 - INFO -  创建findsec_test05用户组
+2020-03-25 21:13:01,960 - INFO -  创建findsec_test05用户组
+2020-03-25 21:13:02,469 - INFO -  创建findsec_test06用户组
+2020-03-25 21:13:02,469 - INFO -  创建findsec_test06用户组
+2020-03-25 21:13:02,469 - INFO -  创建findsec_test06用户组
+2020-03-25 21:13:02,469 - INFO -  创建findsec_test06用户组
+2020-03-25 21:13:02,469 - INFO -  创建findsec_test06用户组
+2020-03-25 21:13:02,469 - INFO -  创建findsec_test06用户组
+2020-03-25 21:13:03,111 - INFO -  创建findsec_test07用户组
+2020-03-25 21:13:03,111 - INFO -  创建findsec_test07用户组
+2020-03-25 21:13:03,111 - INFO -  创建findsec_test07用户组
+2020-03-25 21:13:03,111 - INFO -  创建findsec_test07用户组
+2020-03-25 21:13:03,111 - INFO -  创建findsec_test07用户组
+2020-03-25 21:13:03,111 - INFO -  创建findsec_test07用户组
+2020-03-25 21:13:03,111 - INFO -  创建findsec_test07用户组
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,470 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:03,830 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,232 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,397 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,583 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:13:04,728 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:42,621 - INFO -  findsec_test01用户组已存在
+2020-03-25 21:15:43,245 - INFO -  findsec_test02用户组已存在
+2020-03-25 21:15:43,245 - INFO -  findsec_test02用户组已存在
+2020-03-25 21:15:43,472 - INFO -  findsec_test03用户组已存在
+2020-03-25 21:15:43,472 - INFO -  findsec_test03用户组已存在
+2020-03-25 21:15:43,472 - INFO -  findsec_test03用户组已存在
+2020-03-25 21:15:43,678 - INFO -  findsec_test04用户组已存在
+2020-03-25 21:15:43,678 - INFO -  findsec_test04用户组已存在
+2020-03-25 21:15:43,678 - INFO -  findsec_test04用户组已存在
+2020-03-25 21:15:43,678 - INFO -  findsec_test04用户组已存在
+2020-03-25 21:15:43,898 - INFO -  findsec_test05用户组已存在
+2020-03-25 21:15:43,898 - INFO -  findsec_test05用户组已存在
+2020-03-25 21:15:43,898 - INFO -  findsec_test05用户组已存在
+2020-03-25 21:15:43,898 - INFO -  findsec_test05用户组已存在
+2020-03-25 21:15:43,898 - INFO -  findsec_test05用户组已存在
+2020-03-25 21:15:44,154 - INFO -  findsec_test06用户组已存在
+2020-03-25 21:15:44,154 - INFO -  findsec_test06用户组已存在
+2020-03-25 21:15:44,154 - INFO -  findsec_test06用户组已存在
+2020-03-25 21:15:44,154 - INFO -  findsec_test06用户组已存在
+2020-03-25 21:15:44,154 - INFO -  findsec_test06用户组已存在
+2020-03-25 21:15:44,154 - INFO -  findsec_test06用户组已存在
+2020-03-25 21:15:44,350 - INFO -  findsec_test07用户组已存在
+2020-03-25 21:15:44,350 - INFO -  findsec_test07用户组已存在
+2020-03-25 21:15:44,350 - INFO -  findsec_test07用户组已存在
+2020-03-25 21:15:44,350 - INFO -  findsec_test07用户组已存在
+2020-03-25 21:15:44,350 - INFO -  findsec_test07用户组已存在
+2020-03-25 21:15:44,350 - INFO -  findsec_test07用户组已存在
+2020-03-25 21:15:44,350 - INFO -  findsec_test07用户组已存在
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:44,756 - ERROR -  创建findsec_test08用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,146 - ERROR -  创建findsec_test09用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:45,518 - ERROR -  创建findsec_test10用户组异常: list index out of range
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:46,844 - INFO -  findsec_test01用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,474 - INFO -  findsec_test02用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+
+2020-03-25 21:15:48,690 - INFO -  findsec_test03用户组已存在
+Traceback (most recent call last):
+  File "auto_create_user_group.py", line 35, in <module>
+    host_groupid=zabbix.get_group_id(hostgrp_name)
+  File "../lib/AutoZabbix.py", line 285, in get_group_id
+    return  groupinfo[0]['groupid']
+IndexError: list index out of range
+

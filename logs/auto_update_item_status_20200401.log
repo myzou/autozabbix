@@ -1,0 +1,526 @@
+2020-04-01 21:55:17,331 - ERROR -  主机2.2.2.2监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:18,277 - ERROR -  主机2.2.2.3监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:18,277 - ERROR -  主机2.2.2.3监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:19,300 - ERROR -  主机2.2.2.4监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:19,300 - ERROR -  主机2.2.2.4监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:19,300 - ERROR -  主机2.2.2.4监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:21,461 - ERROR -  主机2.2.2.5监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:21,461 - ERROR -  主机2.2.2.5监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:21,461 - ERROR -  主机2.2.2.5监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:21,461 - ERROR -  主机2.2.2.5监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:22,478 - ERROR -  主机2.2.2.6监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:22,478 - ERROR -  主机2.2.2.6监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:22,478 - ERROR -  主机2.2.2.6监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:22,478 - ERROR -  主机2.2.2.6监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:22,478 - ERROR -  主机2.2.2.6监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,434 - ERROR -  主机2.2.2.7监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,434 - ERROR -  主机2.2.2.7监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,434 - ERROR -  主机2.2.2.7监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,434 - ERROR -  主机2.2.2.7监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,434 - ERROR -  主机2.2.2.7监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,434 - ERROR -  主机2.2.2.7监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,666 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,666 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,666 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,666 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,666 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,666 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:55:23,666 - WARNING -  主机2.2.2.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 21:56:18,503 - INFO -  主机2.2.2.2监控项findsec.test已禁用
+2020-04-01 21:56:19,233 - INFO -  主机2.2.2.3监控项findsec.test已禁用
+2020-04-01 21:56:19,233 - INFO -  主机2.2.2.3监控项findsec.test已禁用
+2020-04-01 21:56:19,964 - INFO -  主机2.2.2.4监控项findsec.test已禁用
+2020-04-01 21:56:19,964 - INFO -  主机2.2.2.4监控项findsec.test已禁用
+2020-04-01 21:56:19,964 - INFO -  主机2.2.2.4监控项findsec.test已禁用
+2020-04-01 21:56:20,670 - INFO -  主机2.2.2.5监控项findsec.test已禁用
+2020-04-01 21:56:20,670 - INFO -  主机2.2.2.5监控项findsec.test已禁用
+2020-04-01 21:56:20,670 - INFO -  主机2.2.2.5监控项findsec.test已禁用
+2020-04-01 21:56:20,670 - INFO -  主机2.2.2.5监控项findsec.test已禁用
+2020-04-01 21:56:21,364 - INFO -  主机2.2.2.6监控项findsec.test已禁用
+2020-04-01 21:56:21,364 - INFO -  主机2.2.2.6监控项findsec.test已禁用
+2020-04-01 21:56:21,364 - INFO -  主机2.2.2.6监控项findsec.test已禁用
+2020-04-01 21:56:21,364 - INFO -  主机2.2.2.6监控项findsec.test已禁用
+2020-04-01 21:56:21,364 - INFO -  主机2.2.2.6监控项findsec.test已禁用
+2020-04-01 21:56:22,076 - INFO -  主机2.2.2.7监控项findsec.test已禁用
+2020-04-01 21:56:22,076 - INFO -  主机2.2.2.7监控项findsec.test已禁用
+2020-04-01 21:56:22,076 - INFO -  主机2.2.2.7监控项findsec.test已禁用
+2020-04-01 21:56:22,076 - INFO -  主机2.2.2.7监控项findsec.test已禁用
+2020-04-01 21:56:22,076 - INFO -  主机2.2.2.7监控项findsec.test已禁用
+2020-04-01 21:56:22,076 - INFO -  主机2.2.2.7监控项findsec.test已禁用
+2020-04-01 21:56:22,258 - WARNING -  主机2.2.2.8未加入监控
+2020-04-01 21:56:22,258 - WARNING -  主机2.2.2.8未加入监控
+2020-04-01 21:56:22,258 - WARNING -  主机2.2.2.8未加入监控
+2020-04-01 21:56:22,258 - WARNING -  主机2.2.2.8未加入监控
+2020-04-01 21:56:22,258 - WARNING -  主机2.2.2.8未加入监控
+2020-04-01 21:56:22,258 - WARNING -  主机2.2.2.8未加入监控
+2020-04-01 21:56:22,258 - WARNING -  主机2.2.2.8未加入监控
+2020-04-01 21:59:46,226 - ERROR -  主机2.2.2.2监控项findsec.test状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:49,796 - ERROR -  主机10.70.93.143监控项system.cpu.switches状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:50,676 - ERROR -  主机10.70.93.172监控项system.cpu.switches状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:50,676 - ERROR -  主机10.70.93.172监控项system.cpu.switches状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:51,586 - ERROR -  主机10.70.93.176监控项system.cpu.switches状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:51,586 - ERROR -  主机10.70.93.176监控项system.cpu.switches状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:51,586 - ERROR -  主机10.70.93.176监控项system.cpu.switches状态更新异常: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:51,780 - WARNING -  主机8.8.8.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:51,780 - WARNING -  主机8.8.8.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:51,780 - WARNING -  主机8.8.8.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:08:51,780 - WARNING -  主机8.8.8.8未加入监控
+Traceback (most recent call last):
+  File "auto_update_item_status.py", line 42, in <module>
+    zabbix.update_item_status(itemid,status)
+  File "../lib/AutoZabbix.py", line 670, in update_item_status
+    response=zabbixapi.item.update(itemid=itemid,status=status)
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 166, in fn
+    args or kwargs
+  File "/usr/lib/python2.7/site-packages/pyzabbix/__init__.py", line 143, in do_request
+    raise ZabbixAPIException(msg, response_json['error']['code'])
+ZabbixAPIException: (u'Error -32500: Application error., No permissions to referred object or it does not exist!', -32500)
+
+2020-04-01 22:13:36,575 - INFO -  主机10.70.93.143监控项system.cpu.switches已禁用
+2020-04-01 22:13:37,315 - INFO -  主机10.70.93.172监控项system.cpu.switches已禁用
+2020-04-01 22:13:37,315 - INFO -  主机10.70.93.172监控项system.cpu.switches已禁用
+2020-04-01 22:13:38,066 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:13:38,066 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:13:38,066 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:13:38,260 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:13:38,260 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:13:38,260 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:13:38,260 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:06,553 - INFO -  主机10.70.93.143监控项system.cpu.switches已禁用
+2020-04-01 22:15:07,506 - INFO -  主机10.70.93.172监控项system.cpu.switches已禁用
+2020-04-01 22:15:07,506 - INFO -  主机10.70.93.172监控项system.cpu.switches已禁用
+2020-04-01 22:15:08,426 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:15:08,426 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:15:08,426 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:15:08,611 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:08,611 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:08,611 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:08,611 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:25,669 - INFO -  主机10.70.93.143监控项system.cpu.switches已禁用
+2020-04-01 22:15:26,625 - INFO -  主机10.70.93.172监控项system.cpu.switches已禁用
+2020-04-01 22:15:26,625 - INFO -  主机10.70.93.172监控项system.cpu.switches已禁用
+2020-04-01 22:15:27,537 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:15:27,537 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:15:27,537 - INFO -  主机10.70.93.176监控项system.cpu.switches已禁用
+2020-04-01 22:15:27,708 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:27,708 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:27,708 - WARNING -  主机8.8.8.8未加入监控
+2020-04-01 22:15:27,708 - WARNING -  主机8.8.8.8未加入监控
